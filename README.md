@@ -2,7 +2,7 @@
 This is the "Learning Java Programming" project.
 
 ## Authors
-* Vdragon<Vdragon.Taiwan@gmail.com>
+* Vdragon&lt;[Vdragon.Taiwan@gmail.com](mailto:Vdragon.Taiwan@gmail.com)&gt;
 * And all contributers of this project not listed above!
 
 ## Intellectual property license
