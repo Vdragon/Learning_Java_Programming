@@ -15,6 +15,9 @@ CC BY 3.0 or any of the later revisions of your wish
 ### [README.md](README.md)
 This document.
 
+### [.travis.yml](.travis.yml)
+[Travis Continuous Integration](http://travis-ci.org) configuration file
+
 ## Software dependencies of this project
 This project requires a properly setuped Java Development Kit(JDK) and Java Runtime Environment(JRE), not limiting but include:
 

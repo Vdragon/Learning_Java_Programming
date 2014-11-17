@@ -1,0 +1,14 @@
+# Travis Continuous Integration(http://travis-ci.org) configuration file
+language: java
+jdk:
+  - oraclejdk8
+  - oraclejdk7
+  - openjdk7
+  - openjdk6
+script: 
+  - cd "00100 - A simplest program that does nothing"
+  - javac Simplest_program_demonstration.java
+  - cd ..
+after_script:
+  - java -classpath "00100 - A simplest program that does nothing" Simplest_program_demonstration
+
