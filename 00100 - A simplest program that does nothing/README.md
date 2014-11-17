@@ -6,6 +6,9 @@ This program demonstrates a simplest program that does nothing(but build-and-run
 ### [README.md](README.md)
 This document
 
+### [.gitignore](.gitignore)
+Git version control system version tracking ignore rules
+
 ### [Simplest_program_demonstration.java](Simplest_program_demonstration.java)
 The demonstration program source code.
 
