@@ -3,10 +3,10 @@
 
 ## Files under this directory
 ### [README.md](README.md)
-This document
+This document.
 
 ### [.gitignore](.gitignore)
-Git version control system version tracking ignore rules
+Git version control system version tracking ignore rules.
 
 ## How to build this program
 1. Launch a command-line terminal.
@@ -16,7 +16,7 @@ Git version control system version tracking ignore rules
 ## How to run this program
 1. Launch a command-line terminal.
 2. Change working directory using `cd` command to this directory.
-3. Run `java -classpath . <name of class that contain entry point function>` command
+3. Run `java -classpath . <name of class that contain entry point function>` command.
 
 ## Example run result
 ```
