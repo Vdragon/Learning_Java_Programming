@@ -15,6 +15,13 @@ CC BY 3.0 or any of the later revisions of your wish
 ### [README.md](README.md)
 This document.
 
+## Software dependencies of this project
+This project requires a properly setuped Java Development Kit(JDK) and Java Runtime Environment(JRE), not limiting but include:
+
+* `java` and `javac` command searchable in PATH environmental variable.
+
+Refer to each sub-directory's README.md for any additional software dependencies.
+
 ## How to contribute to this project?
 ### File issues of this project
 
