@@ -9,7 +9,7 @@ This is the "Learning Java Programming" project.
 CC BY 3.0 or any of the later revisions of your wish
 
 ## Files under this directory
-### README.md
+### [README.md](README.md)
 This document.
 
 ## How to contribute to this project?
