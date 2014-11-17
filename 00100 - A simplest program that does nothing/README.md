@@ -12,7 +12,7 @@ Git version control system version tracking ignore rules
 ### [Simplest_program_demonstration.java](Simplest_program_demonstration.java)
 The demonstration program source code.
 
-### [Simplest_program_demonstration.class](Simplest_program_demonstration.class)(Only available after building the source code
+### [Simplest_program_demonstration.class](Simplest_program_demonstration.class)(Only available after building the source code)
 The demonstration program's bytecode(which can be executed in JVM).
 
 ## How to build this program
