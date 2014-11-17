@@ -1,0 +1,4 @@
+# Git version control system version tracking ignore rules
+## Ignore Java bytecode files
+*.class
+

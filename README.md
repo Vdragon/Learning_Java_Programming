@@ -9,6 +9,8 @@ This is the "Learning Java Programming" project.
 CC BY 3.0 or any of the later revisions of your wish
 
 ## Files under this directory
+### [00100 - A simplest program that does nothing](00100 - A simplest program that does nothing)
+
 ### [README.md](README.md)
 This document.
 
