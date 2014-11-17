@@ -35,3 +35,6 @@ Refer to each sub-directory's README.md for any additional software dependencies
 ### Contribute art designs
 
 ### Any-else that will help this project are welcomed!
+
+## Continuous Integration status(powered by [Travis CI](https://travis-ci.org))
+[![Build Status](https://travis-ci.org/Vdragon/Learning_Java_Programming.svg)](https://travis-ci.org/Vdragon/Learning_Java_Programming)
